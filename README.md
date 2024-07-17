@@ -30,19 +30,19 @@ npm run build
 
 
 # New Project create and initialization
-1. npm init vue@latest
- a. chose Project name
- b. add typescript: no
- c. jsx support: no
- d. Vue router: yes
- e. pinia: no
- f. vitest: no
- g. end to end test: no
- h. eslint: no
- i. add vue detools 7: no
-2.cd project and observe structure(public, src, jsconfig.json, package.json, vite.config.js)
-3. npm install
-4. npm run dev
+- 1. npm init vue@latest
+   - a. chose Project name
+   - b. add typescript: no
+   - c. jsx support: no
+   - d. Vue router: yes
+   - e. pinia: no
+   - f. vitest: no
+   - g. end to end test: no
+   - h. eslint: no
+   - i. add vue detools 7: no
+- 2.cd project and observe structure(public, src, jsconfig.json, package.json, vite.config.js)
+- 3. npm install
+- 4. npm run dev
    your app will be run on localhost:5174
 
 
